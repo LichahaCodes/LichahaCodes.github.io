@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3.4"
 
 # Use the Just the Docs theme
-gem "just-the-docs"
+gem "just-the-docs", "~> 0.10.0"
 
 # Explicitly add csv and base64 gems to silence Ruby 3.4+ warnings
 gem "csv"

@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Use Jekyll to manage your site
-gem "jekyll", "~> 4.3.4"
+gem "jekyll-default-layout"
 
 # Use the Just the Docs theme
 gem "just-the-docs", "~> 0.10.0"
